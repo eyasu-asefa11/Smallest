@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Smallest",
+			"path": "../../Smallest/Smallest"
+		}
+	],
+	"settings": {
+		"git.enabled": false
+	}
+}
